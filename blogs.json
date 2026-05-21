@@ -433,8 +433,8 @@
           {
             "title": "App Decentral",
             "author": "Drew McCormack",
-            "site_url": "https://appdecentral.com",
-            "feed_url": "https://appdecentral.com/feed/",
+            "site_url": "https://mentalfaculty.com/blog/",
+            "feed_url": "https://mentalfaculty.com/blog/",
             "x_url": "https://x.com/drewmccormack"
           },
           {
@@ -1411,7 +1411,7 @@
           {
             "title": "Dirk Holtwick’s Blog",
             "author": "Dirk Holtwick",
-            "site_url": "https://holtwick.de/en/blog/",
+            "site_url": "https://holtwick.de/blog/",
             "feed_url": "https://holtwick.de/atom.xml",
             "x_url": "https://x.com/holtwick"
           },
@@ -1658,8 +1658,8 @@
           {
             "title": "FlineDev",
             "author": "Cihat Gündüz",
-            "site_url": "https://www.fline.dev/",
-            "feed_url": "https://www.fline.dev/rss/",
+            "site_url": "https://fline.dev/",
+            "feed_url": "https://fline.dev/rss/",
             "mastodon_url": "https://iosdev.space/@Jeehut",
             "x_url": "https://x.com/Jeehut"
           },
@@ -2432,8 +2432,8 @@
           {
             "title": "Lewis Makes Apps",
             "author": "Lewis Smith",
-            "site_url": "https://lewismakesapps.com/",
-            "feed_url": "https://lewismakesapps.com/feed/",
+            "site_url": "https://lewis42.me/",
+            "feed_url": "https://lewis42.me/",
             "x_url": "https://x.com/lewismakesapps"
           },
           {
@@ -3989,7 +3989,7 @@
             "title": "Stuart Breckenridge’s Blog",
             "author": "Stuart Breckenridge",
             "site_url": "https://stuartbreckenridge.net/",
-            "feed_url": "https://stuartbreckenridge.net/rss/",
+            "feed_url": "https://stuartbreckenridge.net/rss.xml",
             "mastodon_url": "https://indieweb.social/@stuarticus"
           },
           {
@@ -5490,8 +5490,8 @@
           {
             "title": "Tramline Blog",
             "author": "Tramline Team",
-            "site_url": "https://www.tramline.app/blog",
-            "feed_url": "https://www.tramline.app/blog/rss.xml",
+            "site_url": "https://tramline.app/blog",
+            "feed_url": "https://tramline.app/blog/rss.xml",
             "x_url": "https://x.com/tramlinehq"
           },
           {
@@ -5503,7 +5503,7 @@
           {
             "title": "The Waldo Blog",
             "author": "Waldo Team",
-            "site_url": "https://www.waldo.com/blog",
+            "site_url": "https://www.tricentis.com/learn",
             "feed_url": "https://www.waldo.com/blog/rss.xml",
             "x_url": "https://x.com/UseWaldo"
           }
@@ -6834,7 +6834,7 @@
             "author": "Nicolo Stanciu, Holger Krupp & Cihat Gündüz",
             "site_url": "https://appstore-tagebuch.de",
             "mastodon_url": "https://iosdev.space/@AppTagebuch@podcasts.social",
-            "feed_url": "https://appstore-tagebuch.de/feed/",
+            "feed_url": "https://appstore-tagebuch.de/podcast.xml",
             "x_url": "https://x.com/AppTagebuch"
           }
         ]
