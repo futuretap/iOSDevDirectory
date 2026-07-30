@@ -433,8 +433,8 @@
           {
             "title": "App Decentral",
             "author": "Drew McCormack",
-            "site_url": "https://appdecentral.com",
-            "feed_url": "https://appdecentral.com/feed/",
+            "site_url": "https://mentalfaculty.com/blog/",
+            "feed_url": "https://mentalfaculty.com/blog/",
             "x_url": "https://x.com/drewmccormack"
           },
           {
@@ -495,7 +495,7 @@
             "title": "Arnaud Joubay's Blog",
             "author": "Arnaud Joubay",
             "site_url": "https://sowenjub.me/",
-            "feed_url": "https://sowenjub.me/writes/rss/",
+            "feed_url": "https://sowenjub.me/writes/rss.xml",
             "mastodon_url": "https://mastodon.social/@sowenjub",
             "x_url": "https://x.com/sowenjub"
           },
@@ -834,8 +834,8 @@
           {
             "title": "Cephalopod Studio",
             "author": "Matthew Waller",
-            "site_url": "https://www.cephalopod.studio/blog",
-            "feed_url": "https://www.cephalopod.studio/blog?format=rss",
+            "site_url": "https://www.cephalopod.studio/blog/",
+            "feed_url": "https://www.cephalopod.studio/blog/?format=rss",
             "x_url": "https://x.com/wattmaller1"
           },
           {
@@ -1411,15 +1411,15 @@
           {
             "title": "Dirk Holtwick’s Blog",
             "author": "Dirk Holtwick",
-            "site_url": "https://holtwick.de/en/blog/",
+            "site_url": "https://holtwick.de/blog/",
             "feed_url": "https://holtwick.de/atom.xml",
             "x_url": "https://x.com/holtwick"
           },
           {
             "title": "The Dodo Developer",
             "author": "Ben Dodson",
-            "site_url": "https://www.thedododeveloper.com/",
-            "feed_url": "https://www.thedododeveloper.com/feed",
+            "site_url": "https://newsletter.bendodson.com/",
+            "feed_url": "https://newsletter.bendodson.com/",
             "x_url": "https://x.com/bendodson"
           },
           {
@@ -1533,7 +1533,7 @@
             "title": "eMpTy Theory",
             "author": "Mark Thormann",
             "site_url": "https://emptytheory.com",
-            "feed_url": "https://emptytheory.com/feed/"
+            "feed_url": "https://emptytheory.com/feed"
           },
           {
             "title": "Emre Havan on Medium",
@@ -1658,8 +1658,8 @@
           {
             "title": "FlineDev",
             "author": "Cihat Gündüz",
-            "site_url": "https://www.fline.dev/",
-            "feed_url": "https://www.fline.dev/rss/",
+            "site_url": "https://fline.dev/",
+            "feed_url": "https://fline.dev/rss/",
             "mastodon_url": "https://iosdev.space/@Jeehut",
             "x_url": "https://x.com/Jeehut"
           },
@@ -1979,7 +1979,7 @@
           {
             "title": "iOS App Templates Blog",
             "author": "Florian Marcu",
-            "site_url": "https://iosapptemplates.com/blog/",
+            "site_url": "https://dopebase.com/blog",
             "feed_url": "https://iosapptemplates.com/blog/rss.xml",
             "x_url": "https://x.com/0xflorian"
           },
@@ -1993,8 +1993,8 @@
           {
             "title": "iOS Dev Library",
             "author": "Frank Thamel",
-            "site_url": "https://iosdevlibrary.com/",
-            "feed_url": "https://iosdevlibrary.com/feed/",
+            "site_url": "http://survey-smiles.com",
+            "feed_url": "http://survey-smiles.com",
             "x_url": "https://x.com/frankthamel"
           },
           {
@@ -2253,8 +2253,8 @@
           {
             "title": "Josh Holtz's Blog",
             "author": "Josh Holtz",
-            "site_url": "https://www.joshholtz.com/blog/",
-            "feed_url": "https://www.joshholtz.com/feed.xml",
+            "site_url": "https://joshholtz.com/blog/",
+            "feed_url": "https://joshholtz.com/feed.xml",
             "x_url": "http://x.com/joshdholtz"
           },
           {
@@ -2432,8 +2432,8 @@
           {
             "title": "Lewis Makes Apps",
             "author": "Lewis Smith",
-            "site_url": "https://lewismakesapps.com/",
-            "feed_url": "https://lewismakesapps.com/feed/",
+            "site_url": "https://lewis42.me/",
+            "feed_url": "https://lewis42.me/",
             "x_url": "https://x.com/lewismakesapps"
           },
           {
@@ -3246,7 +3246,7 @@
             "title": "Otávio's blog",
             "author": "Otávio C.",
             "site_url": "https://otavio.cc",
-            "feed_url": "https://otavio.cc/posts_feed",
+            "feed_url": "https://otavio.cc/posts_feed/",
             "mastodon_url": "https://social.lol/@otaviocc",
             "microblog_url": "https://micro.blog/otaviocc"
           },
@@ -3627,8 +3627,8 @@
           {
             "title": "Roland Leth’s Blog",
             "author": "Roland Leth",
-            "site_url": "https://rolandleth.com",
-            "feed_url": "https://rolandleth.com/feed",
+            "site_url": "https://roland.leth.ro/",
+            "feed_url": "https://roland.leth.ro/feed",
             "x_url": "https://x.com/rolandleth"
           },
           {
@@ -3681,8 +3681,8 @@
           {
             "title": "Ryan Ashcraft's Blog",
             "author": "Ryan Ashcraft",
-            "site_url": "https://ryanashcraft.com",
-            "feed_url": "https://ryanashcraft.com/rss/",
+            "site_url": "https://ryanwesley.com/",
+            "feed_url": "https://ryanwesley.com/rss/",
             "x_url": "https://x.com/ryanashcraft"
           },
           {
@@ -3989,7 +3989,7 @@
             "title": "Stuart Breckenridge’s Blog",
             "author": "Stuart Breckenridge",
             "site_url": "https://stuartbreckenridge.net/",
-            "feed_url": "https://stuartbreckenridge.net/rss/",
+            "feed_url": "https://stuartbreckenridge.net/rss.xml",
             "mastodon_url": "https://indieweb.social/@stuarticus"
           },
           {
@@ -4667,8 +4667,8 @@
           {
             "title": "YoSwift",
             "author": "Manoj Karki",
-            "site_url": "https://yoswift.dev",
-            "feed_url": "https://yoswift.dev/feed.rss",
+            "site_url": "https://aspivenin.nl/",
+            "feed_url": "https://aspivenin.nl/",
             "x_url": "https://x.com/mskarki"
           },
           {
@@ -4756,7 +4756,7 @@
           {
             "title": "Louie Abreu’s Blog",
             "author": "Louie Abreu",
-            "site_url": "https://lmjabreu.com/posts/",
+            "site_url": "https://lmjabreu.com/posts",
             "feed_url": "https://lmjabreu.com/feed.xml"
           },
           {
@@ -5006,7 +5006,7 @@
             "title": "Bitrig Blog",
             "author": "Bitrig Team",
             "site_url": "https://bitrig.com/blog",
-            "feed_url": "https://bitrig.com/api/rss",
+            "feed_url": "https://app.bitrig.com/api/rss",
             "x_url": "https://x.com/bitrigapp"
           },
           {
@@ -5155,8 +5155,8 @@
           {
             "title": "Flutter Blog",
             "author": "Flutter Team",
-            "site_url": "https://blog.flutter.dev/",
-            "feed_url": "https://blog.flutter.dev/feed",
+            "site_url": "https://flutter.dev/blog",
+            "feed_url": "https://flutter.dev/blog/feed",
             "x_url": "https://x.com/flutterdev"
           },
           {
@@ -5351,7 +5351,7 @@
           {
             "title": "Requestly Blog",
             "author": "Requestly Team",
-            "site_url": "https://requestly.com/blog/category/mobile-development/ios-development/",
+            "site_url": "https://requestly.com/blog/category/mobile-development/",
             "feed_url": "https://requestly.com/blog/category/mobile-development/ios-development/feed/",
             "x_url": "https://x.com/requestlyIO"
           },
@@ -5365,7 +5365,7 @@
           {
             "title": "RevenueCat Blog",
             "author": "Jacob Eiting",
-            "site_url": "https://www.revenuecat.com/blog/",
+            "site_url": "https://www.revenuecat.com/blog",
             "feed_url": "https://www.revenuecat.com/blog/rss.xml",
             "x_url": "https://x.com/revenuecat"
           },
@@ -5490,8 +5490,8 @@
           {
             "title": "Tramline Blog",
             "author": "Tramline Team",
-            "site_url": "https://www.tramline.app/blog",
-            "feed_url": "https://www.tramline.app/blog/rss.xml",
+            "site_url": "https://tramline.app/blog",
+            "feed_url": "https://tramline.app/blog/rss.xml",
             "x_url": "https://x.com/tramlinehq"
           },
           {
@@ -5503,7 +5503,7 @@
           {
             "title": "The Waldo Blog",
             "author": "Waldo Team",
-            "site_url": "https://www.waldo.com/blog",
+            "site_url": "https://www.tricentis.com/learn",
             "feed_url": "https://www.waldo.com/blog/rss.xml",
             "x_url": "https://x.com/UseWaldo"
           }
@@ -5688,8 +5688,8 @@
           {
             "title": "Under the Radar",
             "author": "Marco Arment and David Smith",
-            "site_url": "https://www.relay.fm/radar",
-            "feed_url": "https://www.relay.fm/radar/feed"
+            "site_url": "https://relay.fm/radar",
+            "feed_url": "https://relay.fm/radar/feed"
           },
           {
             "title": "Waiting for Review",
@@ -6834,7 +6834,7 @@
             "author": "Nicolo Stanciu, Holger Krupp & Cihat Gündüz",
             "site_url": "https://appstore-tagebuch.de",
             "mastodon_url": "https://iosdev.space/@AppTagebuch@podcasts.social",
-            "feed_url": "https://appstore-tagebuch.de/feed/",
+            "feed_url": "https://appstore-tagebuch.de/podcast.xml",
             "x_url": "https://x.com/AppTagebuch"
           }
         ]
